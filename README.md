@@ -45,8 +45,8 @@ I'm a **Senior Software Engineer** with extensive experience building high-perfo
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(update with your actual link)*
-- 📧 [Email Me](mailto:you@example.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/makinde-akinola-4073bb177/)) *(update with your actual link)*
+- 📧 [Email Me](mailto:makindeakinola22@gmail.com)
 
 ---
 
