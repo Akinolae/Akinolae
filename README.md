@@ -17,7 +17,7 @@ I'm a **Senior Software Engineer** with extensive experience building high-perfo
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages & Frameworks
-- **JavaScript / TypeScript**
+- **JavaScript / TypeScript / Java / Python **
 - **React** / **React Native**
 - **Node.js**, **Express**, **NestJS**
 
