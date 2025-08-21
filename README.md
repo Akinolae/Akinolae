@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akinolae
+<h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Makinde Akinola! </h3>
 
 I'm a **Senior Software Engineer** with extensive experience building high-performance **web**, **mobile**, and **backend** applications. I specialize in delivering scalable, secure, and maintainable solutions across the full stack.
 
