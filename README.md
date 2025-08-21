@@ -1,3 +1,16 @@
+<div align="center" id="badges">
+  <a href="www.linkedin.com/in/makinde-akinola-4073bb177/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="(https://x.com/akin_mankind)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=hacktivist123&style=flat-square&color=blue" alt=""/>
+</div>
+
 <h3 align="center"> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Makinde Akinola! </h3>
 
 I'm a **Senior Software Engineer** with extensive experience building high-performance **web**, **mobile**, and **backend** applications. I specialize in delivering scalable, secure, and maintainable solutions across the full stack.
@@ -45,8 +58,6 @@ I'm a **Senior Software Engineer** with extensive experience building high-perfo
 ---
 
 ## 📫 Let's Connect
-
-- 💼 [Makinde Akinola]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/makinde-akinola-4073bb177/))
 - 📧 [Email Me](mailto:makindeakinola22@gmail.com)
 
 ---
