@@ -36,6 +36,7 @@ I'm a **Senior Software Engineer** with extensive experience building high-perfo
 - 🔐 Integrated encryption and security best practices into backend services
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akinolae&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub Stats
 
